@@ -1,1 +1,1 @@
-# 6-months-course-python-branch
+# 6-months-course-python-branches
